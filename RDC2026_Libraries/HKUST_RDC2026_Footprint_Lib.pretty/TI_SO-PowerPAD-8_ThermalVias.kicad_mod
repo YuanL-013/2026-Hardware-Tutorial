@@ -1,0 +1,334 @@
+(footprint "TI_SO-PowerPAD-8_ThermalVias"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "8-pin HTSOP package with 1.27mm pin pitch, compatible with SOIC-8, 3.9x4.9mm² body, exposed pad, thermal vias with large copper area, as proposed in http://www.ti.com/lit/ds/symlink/tps5430.pdf")
+	(tags "HTSOP 1.27")
+	(property "Reference" "REF**"
+		(at 0 -3.5 0)
+		(layer "F.SilkS")
+		(uuid "c6389276-6b4d-43a8-a5d3-5b01320a4dbf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TI_SO-PowerPAD-8_ThermalVias"
+		(at 0 3.5 0)
+		(layer "F.Fab")
+		(uuid "9b249b51-68d6-4eb0-9d6e-6bf96e7459a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c24cabac-0874-4b9e-8256-41bbcdd23c88")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77c7444d-5fbb-4a96-a27b-3729703a5cdb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4fe8877f-796d-4824-8e6a-b574501dc25b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.075 -2.575)
+		(end -2.075 -2.525)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "723eb609-8e5d-46e9-b931-b136991877de")
+	)
+	(fp_line
+		(start -2.075 -2.575)
+		(end 2.075 -2.575)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "facf2aa6-e177-4861-b6fb-c07a78b9b18e")
+	)
+	(fp_line
+		(start -2.075 -2.525)
+		(end -3.475 -2.525)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "844cc8a0-fbba-4b7e-a35f-dba3645e0cc9")
+	)
+	(fp_line
+		(start -2.075 2.575)
+		(end -2.075 2.43)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1a2d91ea-b501-404f-846b-4d03c01929ea")
+	)
+	(fp_line
+		(start -2.075 2.575)
+		(end 2.075 2.575)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bb464e77-fd1c-4c02-891b-f1691c0a8851")
+	)
+	(fp_line
+		(start 2.075 -2.575)
+		(end 2.075 -2.43)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f5204c07-0454-430c-9ad2-afa61ee59140")
+	)
+	(fp_line
+		(start 2.075 2.575)
+		(end 2.075 2.43)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "961dbb5a-fd0b-4d7c-aebc-68afab64f7a1")
+	)
+	(fp_circle
+		(center -3.6068 -2.3368)
+		(end -3.6068 -2.3368)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "25d9af1e-0ad2-4dd2-9a76-03c9c9d82994")
+	)
+	(fp_line
+		(start -3.75 -2.75)
+		(end -3.75 2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "75bf6d21-bedd-4881-a647-ba52e44c6221")
+	)
+	(fp_line
+		(start -3.75 -2.75)
+		(end 3.75 -2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f8d0b157-6cd6-4878-bed8-a1dea12785ce")
+	)
+	(fp_line
+		(start -3.75 2.75)
+		(end 3.75 2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cfec48ec-5b60-406c-b9ca-bcc5ed231413")
+	)
+	(fp_line
+		(start 3.75 -2.75)
+		(end 3.75 2.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6b218a5d-34d0-4afe-994d-c87e868c1fb1")
+	)
+	(fp_line
+		(start -1.95 -1.45)
+		(end -0.95 -2.45)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cc0b9d72-66c6-40fe-82c0-e58c69522aad")
+	)
+	(fp_line
+		(start -1.95 2.45)
+		(end -1.95 -1.45)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ccce6147-cc02-4d28-af86-0c44a85ff258")
+	)
+	(fp_line
+		(start -0.95 -2.45)
+		(end 1.95 -2.45)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9d4b399b-4829-4cba-aeb3-453ee4304303")
+	)
+	(fp_line
+		(start 1.95 -2.45)
+		(end 1.95 2.45)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cd6c67d0-a965-4954-8c0d-ffe404354023")
+	)
+	(fp_line
+		(start 1.95 2.45)
+		(end -1.95 2.45)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3b1457d8-3c1d-4bce-bbf3-d5ec89f64dcb")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "625e3f96-2ec7-4c6d-b73a-d31c241a9c4f")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.135)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.7 -1.905)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "451f6398-93d0-49fc-be84-6c020cb5b5e9")
+	)
+	(pad "2" smd rect
+		(at -2.7 -0.635)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "05b14fcf-0faf-49b9-bcde-136050e60d39")
+	)
+	(pad "3" smd rect
+		(at -2.7 0.635)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a858dea6-0b6e-429d-960c-3f70fde02c77")
+	)
+	(pad "4" smd rect
+		(at -2.7 1.905)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "ed780358-3b23-4eb8-a441-1a5613b106c4")
+	)
+	(pad "5" smd rect
+		(at 2.7 1.905)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "10f06c98-0591-434b-8c77-42cc8267c357")
+	)
+	(pad "6" smd rect
+		(at 2.7 0.635)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a97d1ff5-5fd8-4781-87af-de3f7992552a")
+	)
+	(pad "7" smd rect
+		(at 2.7 -0.635)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "45829909-ea32-47dc-b320-764d88997701")
+	)
+	(pad "8" smd rect
+		(at 2.7 -1.905)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "26f19f70-78f1-4c93-b79e-95607d601766")
+	)
+	(pad "9" thru_hole circle
+		(at 0 0)
+		(size 2.6 2.6)
+		(drill 2)
+		(layers "*.Cu")
+		(remove_unused_layers no)
+		(uuid "a8ea83f5-e60e-4790-8933-939970c6e320")
+	)
+	(pad "9" smd rect
+		(at 0 0)
+		(size 2.6 3.1)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6c74d5b3-7e73-4c24-9d60-d41eac09302e")
+	)
+	(pad "9" smd rect
+		(at 0 0)
+		(size 2.95 4.5)
+		(layers "F.Cu")
+		(uuid "020a255b-f39d-403e-854f-ff6cc44855a6")
+	)
+	(pad "9" smd rect
+		(at 0 0)
+		(size 2.95 4.5)
+		(layers "B.Cu")
+		(uuid "493635e1-6fa6-4bd9-b1b9-3c709b7a6a3f")
+	)
+	(model "${KISYS3DMOD}/Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
