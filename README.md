@@ -6,7 +6,7 @@ Below will be a brief overview of our schedule:
 (Tutorial Arrangement)[]  
 (Homework Arrangement)[]  
 
-## Installation of KiCAD 9.0
+## Installation of KiCAD 10.0
 Please install this before the first tutorial!
 
 Please install this before the first tutorial!  
