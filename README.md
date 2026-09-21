@@ -2,7 +2,16 @@
 
 Welcome to the HKUST Robotics Team Hardware Tutorial!
 
-Below will be a brief overview of our schedule:
+This repo contains everything you need, schedules, tutorials, materials, and resources. You may clone this repository or just download what you need.
+
+## Quick Links
+| Resource | Description |
+|----------|-------------|
+| [Tutorial Schedule](#tutorial-schedule) | Full schedule with dates & venues |
+| [Homework Deadlines](#homework-releases-and-deadlines) | Due dates |
+| [KiCAD Installation](#installation-of-kicad-1006) | Install guide + PDF/MD |
+| [KiCAD Libraries](#kicad-libraries) | Custom RDC component library |
+| [Tutorial Modules](#tutorial-modules) | Topics per tutorial |
 
 ## Tutorial Schedule
 
@@ -31,7 +40,7 @@ Installation link for different operating systems:
 Here are some guides on installing and setting up KiCAD:  
 - [PDF guide](KiCAD-Materials/KiCAD-installation-setup.pdf) for KiCAD Installation   
 - [Markdown Guide](KiCAD-Materials/Installation-Setup-Plugins.md) for KiCAD Installation & Setup
-
+--- 
 ### KiCAD Libraries
 We will be using a customized components library for RDC to ease the designing process for many. Below is where the library can be downloaded and steps on how to import the library:  
 
@@ -41,9 +50,9 @@ We will be using a customized components library for RDC to ease the designing p
 
 If you have any questions/facing issues, feel free to reach out the the seniors on Discord!  
 
-
+--- 
 ### Tutorial Modules
-
+You may view the official syllabus [here](Full-Tutorial-Syllabus.pdf).
 | Module | Topic | Materials |
 |--------|-------|-----------|
 | Tutorial 1 | Introduction to Hardware, Components and Schematic Design with KiCAD | [Week 1 Notes](Tutorial-Notes/Week-1/HKUST-RoboticsTeam-HardwareTutorial1-Notes.pdf) |
