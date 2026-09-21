@@ -6,7 +6,7 @@ Below will be a brief overview of our schedule:
 
 ## Tutorial Schedule
 
-![Tutorial Schedule](img\10-tutorial-schedule-venue.png)
+![Tutorial Schedule](img/10-tutorial-schedule-venue.png)
 
 ### Homework Releases and Deadlines
 
@@ -29,13 +29,13 @@ Installation link for different operating systems:
   - Install from terminal via flatpack: Flatpack install-from https://flathub.org/repo/appstream/org.kicad.KiCad.flatpakref
 
 Here are some guides on installing and setting up KiCAD:  
-- [PDF guide](KiCAD-Materials\KiCAD-installation-setup.pdf) for KiCAD Installation   
-- [Markdown Guide](KiCAD-Materials\Installation-Setup-Plugins.md) for KiCAD Installation & Setup
+- [PDF guide](KiCAD-Materials/KiCAD-installation-setup.pdf) for KiCAD Installation   
+- [Markdown Guide](KiCAD-Materials/Installation-Setup-Plugins.md) for KiCAD Installation & Setup
 
 ### KiCAD Libraries
 We will be using a customized components library for RDC to ease the designing process for many. Below is where the library can be downloaded and steps on how to import the library:  
 
-[RDC2026-Libraries](KiCAD-Materials\2026RDC-Libraries.zip)  
+[RDC2026-Libraries](KiCAD-Materials/2026RDC-Libraries.zip)  
 
 [Importing libraries into KiCAD](KiCAD-Materials/Installation-Setup-Plugins.md#importing-symbol-libraries)  
 
@@ -46,7 +46,7 @@ If you have any questions/facing issues, feel free to reach out the the seniors 
 
 | Module | Topic | Materials |
 |--------|-------|-----------|
-| Tutorial 1 | Introduction to Hardware, Components and Schematic Design with KiCAD | [Week 1 Notes](Tutorial-Notes\Week-1\HKUST-RoboticsTeam-HardwareTutorial1-Notes.pdf) |
+| Tutorial 1 | Introduction to Hardware, Components and Schematic Design with KiCAD | [Week 1 Notes](Tutorial-Notes/Week-1/HKUST-RoboticsTeam-HardwareTutorial1-Notes.pdf) |
 | Tutorial 2 | Introduction to PCB Design with KiCAD | — |
 | Tutorial 3 | Hands-on PCB Soldering | — |
 | Tutorial 4 | Hands-on Wire Soldering and Crimping | — |

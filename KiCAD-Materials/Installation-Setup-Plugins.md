@@ -66,7 +66,7 @@ The main KiCad window has the following tools:
 | **Drawing Sheet Editor** | Edit drawing sheet borders and title blocks |
 | **Plugin and Content Manager** | Manage plugins and libraries |
 
-![Launched Interface](img\01-launched-interface.png)
+![Launched Interface](img/01-launched-interface.png)
 
 ---
 
@@ -88,7 +88,7 @@ Open **Plugin and Content Manager** from the main KiCad window.
  
 
 ![Interactive BOM and Via Stitching](https://github.com/YuanL-013/2026-Hardware-Tutorial/blob/main/img/01a-interactive-bom.png?raw=true)
-![Via Stitching External](https://github.com/YuanL-013/2026-Hardware-Tutorial/blob/main/img/01b-via-stitching-external.png?raw=true)
+![Via Stitching External](img/01b-via-stiching-external.png)
 
 After selecting plugins, click **Apply Pending Changes** and wait for installation to complete.
 
@@ -96,7 +96,7 @@ After selecting plugins, click **Apply Pending Changes** and wait for installati
 
 ## Importing Symbol Libraries
 
-Before importing, make sure you have downloaded the **RDC2026_Libraries** folder. You can download it [here](KiCAD-Materials\2026RDC-Libraries.zip) if you haven't done so.
+Before importing, make sure you have downloaded the **RDC2026_Libraries** folder. You can download it [here](KiCAD-Materials/2026RDC-Libraries.zip) if you haven't done so.
 
 The folder contains:
 - `HKUST_RDC2026_DRC_template` (folder)
@@ -113,8 +113,8 @@ The folder contains:
 5. Set **Library Format** to `KiCad`
 6. Click **OK**
 
-![Symbol Library Import](img\02-symbol-library-import.png)
-![Symbol Library Import Detail](img\02a-symbol-library-import.png)
+![Symbol Library Import](img/02-symbol-library-import.png)
+![Symbol Library Import Detail](img/02a-symbol-library-import.png)
 
 ---
 
@@ -129,7 +129,7 @@ This is similar to adding symbol library.
 5. Set **Library Format** to `KiCad`
 6. Click **OK**
 
-![Footprint Library Import](img\03-footprint-library-import.png)
+![Footprint Library Import](img/03-footprint-library-import.png)
 
 ---
 
@@ -148,7 +148,7 @@ The DRC (Design Rule Check) template is provided in the `HKUST_RDC2026_DRC_templ
 3. Choose a location and name for your project
 4. Click **Save**
 
-![Setting Up New Project](img\04-setting-up-new-project.png)
+![Setting Up New Project](img/04-setting-up-new-project.png)
 
 > **Important:** Do **NOT** put all project files into a single folder. Follow the **one project, one folder** rule with version tracking.
 
