@@ -66,7 +66,7 @@ Please submit:
 Upload your submission through the designated platform: Dropbox.
 The most updated link for submission would be posted on Discord.
 
-## Student Checklist
+## Checklist
 
 Before submitting, check that:
 
