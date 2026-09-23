@@ -78,4 +78,17 @@ The submission link here will be updated 1-2 days after the homework release for
 | H02 | TBA  |
 | H03 | TBA  |
 
+## Additional Tasks
+This part is optional and will not change the scorings of your homework. But it is something that you can consider as an additional ecercise regarding challenges you may face in the future.
+
+The STM32 is communicating via a 3v3 logic, while you have received a motor that communicates in 5V. 
+
+Here are the pinouts of the motor connections: ()
+
+To ease your understanding if this is your first time learning hardware.
+(ecplain timer pin->pwm to control motor, need to add supplementary img/document to let those totally newbie to learn this) 
+
+we are using STM32F405RGT6. each pins have a different function that can be assigned 
+
+
 [↑ Back to Top](#homework-1)
