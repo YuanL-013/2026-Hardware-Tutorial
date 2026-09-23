@@ -7,7 +7,7 @@ This repo contains everything you need, schedules, tutorials, materials, and res
 ## Quick Links
 | Resource | Description |
 |----------|-------------|
-| [Tutorial Schedule](#tutorial-schedule) | Full schedule with dates & venues |
+| [Tutorial Schedule](#tutorial-schedule) | Full schedule with dates |
 | [Homework Deadlines](#homework-releases-and-deadlines) | Due dates |
 | [KiCAD Installation](#installation-of-kicad-1006) | Install guide + PDF/MD |
 | [KiCAD Libraries](#kicad-libraries) | Custom RDC component library |
@@ -28,6 +28,8 @@ This repo contains everything you need, schedules, tutorials, materials, and res
 | HW2(H02) | 2 Oct | 7 Oct |
 | HW2(H03) | 5 Oct | 11 Oct |
 
+You can now access homework 1 [here](Homework/HW1/HW1.md).
+
 ## Installation of KiCAD 10.0.6
 Please install this before the first tutorial!  
 
@@ -46,7 +48,7 @@ We will be using a customized components library for RDC to ease the designing p
 
 [RDC2026-Libraries](KiCAD-Materials/2026RDC-Libraries.zip)  
 
-[Importing libraries into KiCAD](KiCAD-Materials/Installation-Setup-Plugins.md#importing-symbol-libraries)  
+[Importing libraries into KiCAD](KiCAD-Materials/KiCAD-Installation-Setup-Plugins.md)  
 
 If you have any questions/facing issues, feel free to reach out the the seniors on Discord!  
 
@@ -59,5 +61,6 @@ You may view the official syllabus [here](Full-Tutorial-Syllabus.pdf).
 | Tutorial 2 | Introduction to PCB Design with KiCAD | — |
 | Tutorial 3 | Hands-on PCB Soldering | — |
 | Tutorial 4 | Hands-on Wire Soldering and Crimping | — |
+
 
 [↑ Back to Top](#hardware-tutorial)

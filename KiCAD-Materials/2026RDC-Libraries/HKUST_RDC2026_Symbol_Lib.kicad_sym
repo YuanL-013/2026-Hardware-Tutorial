@@ -4211,7 +4211,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HKUST_RDC2026_Footprint_Lib:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+		(property "Footprint" "HKUST_RDC2026_Footprint_Lib:R_0603_1608Metric"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

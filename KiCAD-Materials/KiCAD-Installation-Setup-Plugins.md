@@ -96,7 +96,7 @@ After selecting plugins, click **Apply Pending Changes** and wait for installati
 
 ## Importing Symbol Libraries
 
-Before importing, make sure you have downloaded the **RDC2026_Libraries** folder. You can download it [here](KiCAD-Materials/2026RDC-Libraries.zip) if you haven't done so.
+Before importing, make sure you have downloaded the **RDC2026_Libraries** folder. You can download it [here](2026RDC-Libaries.zip) if you haven't done so.
 
 The folder contains:
 - `HKUST_RDC2026_DRC_template` (folder)
