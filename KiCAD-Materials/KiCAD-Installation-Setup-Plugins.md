@@ -83,7 +83,7 @@ Open **Plugin and Content Manager** from the main KiCad window.
 ### 2. Via Stitching (External Import)
 
 - Go [github/viastitcher](https://github.com/weirdgyn/viastitcher)
-- Press <Code> and then press <Download ZIP>
+- Press "Code" and then press "Download ZIP"
 - Move it under: C:\Users\YourUser\KiCad\10.0\scripting\pluginsand unzip it
 - **Note:** The directory depends on your laptop configuration
  
