@@ -37,10 +37,22 @@ Homework 1 focuses on getting you familiar with the KiCAD interface by **complet
 
 | TODO | Section | Task |
 |------|---------|------|
-| TODO 1 | 5V → 3.3V Regulator | Refer to the datasheet for filling in the blanks connections  |
-| TODO 2 | 12V → 5V Regulator | Refer to the datasheet for filling in the blanks connections  |
-| TODO 3 | CAN Signal Transceiver | Fill in the blanks for all unconnected MCU pins |
-| TODO 4 | GPIO / Connectors | Connect the unused MCU pins |
+| TODO 1 | 5V → 3.3V Regulator | Refer to the datasheet of the IC
+& fill in the blanks
+Add components (resistors, capacitors, inductors, etc) 
+when needed and with appropriate values.  |
+| TODO 2 | 12V → 5V Regulator | Refer to the datasheet of the IC
+& fill in the blanks
+Add components (resistors, capacitors, inductors, etc) 
+when needed and with appropriate values.  |
+| TODO 3 | Refer to the datasheet of the IC
+& fill in the blanks
+Add components (resistors, capacitors, inductors, etc) 
+when needed and with appropriate values.
+& Connect suitable pins from the MCU
+to the IC's TXD and RXD pins |
+| TODO 4 | GPIO / Connectors | Find suitable pins (GPIO capable pins) on the MCU
+and find a way to connect them to the headers (J1&J2) |
 | TODO 5 | MCU | Fill in the blanks for  MCU pins |
 
 > Match each TODO with the markers inside the `.kicad_sch` file.
