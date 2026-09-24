@@ -28,8 +28,6 @@ Kingslie (yskong@connect.ust.hk) & Yuan (ylawaa@connect.ust.hk)
 ## Overview
 Homework 1 focuses on getting you familiar with the KiCAD interface by **completing a partially-drawn schematic**. You will wire up the given blocks, fill in component values, and resolve ERC errors.
 
-> 📄 **Template reference:** [`HW1-Template.pdf`](HW1-Template.pdf)
->
 > 📝 **Starter file:** [`HW1-Template.zip`](HW1-Template.zip) 
 
 
@@ -78,5 +76,3 @@ The submission link here will be updated 1-2 days after the homework release for
 | H02 | TBA  |
 | H03 | TBA  |
 ---
-
-
