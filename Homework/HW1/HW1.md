@@ -38,7 +38,9 @@ Homework 1 focuses on getting you familiar with the KiCAD interface by **complet
 | TODO 1 | 5V → 3.3V Regulator LM1117-3.3V | Refer to the datasheet of the IC & fill in the blanks. Add components (resistors, capacitors, inductors, etc) when needed and with appropriate values.  |
 | TODO 2 | 12V → 5V Regulator AP63300WU-7 | Refer to the datasheet of the IC & fill in the blanks. Add components (resistors, capacitors, inductors, etc) when needed and with appropriate values.  |
 | TODO 3 | CAN Signal Transceiver TJA1050 | Refer to the datasheet of the IC & fill in the blanks. Add components (resistors, capacitors, inductors, etc) when needed and with appropriate values & Connect suitable pins from the MCU to the IC's TXD and RXD pins |
-| TODO 4 | GPIO / Connectors / MCU pins | Find suitable pins (GPIO capable pins) on the MCU & find a way to connect them to the headers (J1&J2) |
+| TODO 4 | GPIO / Connectors / MCU pins | Find suitable pins (GPIO capable pins) on the MCU & find a way to connect them to the headers (J4&J6) |
+
+Update: For TODO4, the correct instruction will be to connect J4&j6 instead of J1&J2.
 
 > Match each TODO with the markers inside the `.kicad_sch` file.
 
@@ -73,7 +75,7 @@ The submission link here will be updated 1-2 days after the homework release for
 
 | Homework | Submission Link |  
 |---|---|
-| H01 | TBA  |
+| H01 | [H01-Dropbox-Submission](https://www.dropbox.com/request/kstg4t9firpsr14zgbik)  |
 | H02 | TBA  |
 | H03 | TBA  |
 ---
