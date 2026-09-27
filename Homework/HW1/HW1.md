@@ -40,7 +40,7 @@ Homework 1 focuses on getting you familiar with the KiCAD interface by **complet
 | TODO 3 | CAN Signal Transceiver TJA1050 | Refer to the datasheet of the IC & fill in the blanks. Add components (resistors, capacitors, inductors, etc) when needed and with appropriate values & Connect suitable pins from the MCU to the IC's TXD and RXD pins |
 | TODO 4 | GPIO / Connectors / MCU pins | Find suitable pins (GPIO capable pins) on the MCU & find a way to connect them to the headers (J4&J6) |
 
-Update: For TODO4, the correct instruction will be to connect J4&j6 instead of J1&J2.
+Update: For TODO4, the correct instruction will be to connect J4&J6 instead of J1&J2.
 
 > Match each TODO with the markers inside the `.kicad_sch` file.
 
@@ -83,7 +83,7 @@ The submission link here will be updated 1-2 days after the homework release for
 
 ## Additional Tasks (Optional)
 
-> This section is **optional** and will **not** affect your homework score. It is extra practice for challenges you may face in future projects.
+> This section is **optional** and will **not** affect your homework score. It is extra practice for challenges you may face in future projects. (Updated 27th September 2026)
 
 ---
 
@@ -118,7 +118,7 @@ You are to make the connections in the **template file** provided. There is an *
 
 ### Motor Wiring
 We are controlling **two motors** — so the same set of signals must be provided for both.
-Each motor has the following connection:
+Each motor has the following connection. You are also required to **add ports for the motor connections** - otherwise there is no way for the motor to physically connect to your board（；´д｀）ゞ:
 ![ELCP-Wiring](../../img/20-elcp-wiring.png)
 
 ### Components Reference
