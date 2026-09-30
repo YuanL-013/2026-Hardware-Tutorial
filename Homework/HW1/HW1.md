@@ -75,9 +75,9 @@ The submission link here will be updated 1-2 days after the homework release for
 
 | Homework | Submission Link |  
 |---|---|
-| H01 | [H01-Dropbox-Submission](https://www.dropbox.com/request/kstg4t9firpsr14zgbik)  |
+| H01 | CLOSED |
 | H02 | [H02-Dropbox-Submission](https://www.dropbox.com/request/xipmr0895ziviafftk6y) |
-| H03 | TBA  |
+| H03 | [H03-Dropbox-Submission](https://www.dropbox.com/request/4vvpqwgw5ztzrd6g5baf)  |
 ---
 
 
