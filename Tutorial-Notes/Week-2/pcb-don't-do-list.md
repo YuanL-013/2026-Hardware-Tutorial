@@ -43,8 +43,8 @@
 
 ## Reminder
 
-This board is intended for hand soldering. Do not place components too close together.
-
+- This board is intended for hand soldering. Do not place components too close together.
+- Run DRC before you submit your homework!!!
 
 ## Recommended Width for Traces
 | Signal / Voltage | Trace Width (mil) |
@@ -55,3 +55,5 @@ This board is intended for hand soldering. Do not place components too close tog
 | Signal (sig) | 10 mil |
 
 > **Note:** Trace widths are scaled according to current carrying requirements. Higher voltage/current rails (e.g., 24V) require significantly thicker traces compared to low-power signal lines.
+
+## Submission Details

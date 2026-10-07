@@ -28,7 +28,9 @@ This repo contains everything you need, schedules, tutorials, materials, and res
 | HW2(H02) | 2 Oct | 7 Oct |
 | HW2(H03) | 5 Oct | 11 Oct |
 
-You can now access homework 1 [here](Homework/HW1/HW1.md). Submission details are [here](Homework/HW1/HW1.md#submission).
+You can now access:  
+ - Homework 1 [here](Homework/HW1/HW1.md). Submission details are [here](Homework/HW1/HW1.md#submission).
+ - Homework 2 [here](Homework/HW2/HW2.zip). Submission details can be found in the Discord server (#homework-submission channel).
 
 ## Installation of KiCAD 10.0.6
 Please install this before the first tutorial!  
@@ -58,7 +60,7 @@ You may view the official syllabus [here](Full-Tutorial-Syllabus.pdf).
 | Module | Topic | Materials |
 |--------|-------|-----------|
 | Tutorial 1 | Introduction to Hardware, Components and Schematic Design with KiCAD | [Week 1 Notes](Tutorial-Notes/Week-1/HKUST-RoboticsTeam-HardwareTutorial1-Notes.pdf) |
-| Tutorial 2 | Introduction to PCB Design with KiCAD | — |
+| Tutorial 2 | Introduction to PCB Design with KiCAD | [Week 1 Notes](Tutorial-Notes/Week-2/2026_HKUST_RoboticsTeam_Hardware_Tutorial_2.pdf) |
 | Tutorial 3 | Hands-on PCB Soldering | — |
 | Tutorial 4 | Hands-on Wire Soldering and Crimping | — |
 
