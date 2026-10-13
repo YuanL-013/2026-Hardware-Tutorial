@@ -27,10 +27,12 @@ This repo contains everything you need, schedules, tutorials, materials, and res
 | HW2(H01) | 30 Sep | 6 Oct |
 | HW2(H02) | 2 Oct | 7 Oct |
 | HW2(H03) | 5 Oct | 11 Oct |
+| HW3(ALL) | 12 Oct | 18 Oct |
 
 You can now access:  
  - Homework 1 [here](Homework/HW1/HW1.md). Submission details are [here](Homework/HW1/HW1.md#submission).
  - Homework 2 [here](Homework/HW2/HW2.zip). Submission details can be found in the Discord server (#homework-submission channel).
+ - Homework 3: Refine your PCB based on the feedback provided by seniors.
 
 ## Installation of KiCAD 10.0.6
 Please install this before the first tutorial!  
